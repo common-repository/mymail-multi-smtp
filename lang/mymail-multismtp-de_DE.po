@@ -1,0 +1,116 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: MyMail Multi SMTP v0.1\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: 2013-05-22 09:36:49+0000\n"
+"Last-Translator: xaver <revaxartslocal@revaxarts.com>\n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: CSL v1.x\n"
+"X-Poedit-Language: German\n"
+"X-Poedit-Country: GERMANY\n"
+"X-Poedit-SourceCharset: utf-8\n"
+"X-Poedit-KeywordsList: __;_e;__ngettext:1,2;_n:1,2;__ngettext_noop:1,2;_n_noop:1,2;_c,_nc:4c,1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;\n"
+"X-Poedit-Basepath: \n"
+"X-Poedit-Bookmarks: \n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Textdomain-Support: yes"
+
+#: multismtp.php:249
+#@ mymail
+msgid "Sent limit of all servers has been reached!"
+msgstr ""
+
+#: multismtp.php:284
+#@ mymail-multismtp
+msgid "SMTP Servers"
+msgstr "SMTP Server"
+
+#: multismtp.php:285
+#@ mymail-multismtp
+msgid "Add new SMTP servers with the button. You can disable each server with the checkbox on the top. The used server will be changed every time you send a message. If you define limits for each server the general limits get overwritten with the proper values"
+msgstr "Füge neue SMTP Server mit dem Button hinzu. Du kannst einzelne Serve mit der Checkbox deaktiviere. Der verwendete Server wird jedesmal geändert. Wenn du Limits definierst werden diese als Gesamtlimits übernommen"
+
+#: multismtp.php:311
+#@ mymail-multismtp
+msgid "remove"
+msgstr "entfernen"
+
+#: multismtp.php:316
+#@ mymail-multismtp
+msgid "Active"
+msgstr "Aktiv"
+
+#: multismtp.php:317
+#@ mymail-multismtp
+msgid "use this server"
+msgstr "verwende diesen Server"
+
+#: multismtp.php:320
+#@ mymail-multismtp
+msgid "Limits"
+msgstr "Limits"
+
+#: multismtp.php:320
+#@ mymail-multismtp
+msgid "define the limits for this server"
+msgstr "bestimme die Limits für diesen Server"
+
+#: multismtp.php:321
+#, php-format
+#@ mymail-multismtp
+msgid "Send max %1$s within %2$s hours"
+msgstr "Sende max %1$s innerhalb %2$s hours"
+
+#: multismtp.php:322
+#, php-format
+#@ mymail
+msgid "You can still send %1$s mails within the next %2$s"
+msgstr ""
+
+#: multismtp.php:332
+#@ mymail
+msgid "seconds"
+msgstr ""
+
+#: multismtp.php:335
+#@ mymail
+msgid "Secure connection"
+msgstr ""
+
+#: multismtp.php:340
+#@ mymail
+msgid "none"
+msgstr ""
+
+#: multismtp.php:347
+#@ mymail
+msgid "If checked username and password are required"
+msgstr ""
+
+#: multismtp.php:350
+#@ mymail
+msgid "Username"
+msgstr ""
+
+#: multismtp.php:354
+#@ mymail
+msgid "Password"
+msgstr ""
+
+#: multismtp.php:366
+#@ mymail-multismtp
+msgid "add SMTP Server"
+msgstr "SMTP Server hinzufügen"
+
+#: multismtp.php:448
+#: multismtp.php:466
+#, php-format
+#@ mymail-multismtp
+msgid "Change the delivery method on the %s!"
+msgstr "Ändere die Sendemethode in %s!"
+

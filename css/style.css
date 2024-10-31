@@ -1,0 +1,30 @@
+.mymail-multismtp-server{
+	border:1px solid #ccc;
+	margin-top: 10px;
+	padding: 3px 5px 10px;
+	overflow: hidden;
+	clear: both;
+	float: none;
+	border-radius: 3px;
+	background-color: #fcfcfc;
+}
+
+.mymail-multismtp-buttons{
+	overflow: hidden;
+	float: right;
+	visibility: hidden;
+	padding: 3px;
+}
+.mymail-multismtp-buttons a{
+	text-decoration: none;
+}
+.mymail-multismtp-server:hover .mymail-multismtp-buttons{
+	visibility: visible;
+}
+.mymail-multismtp-server h5{
+	font-size: 14px;
+	border-bottom: 1px solid #ccc;
+	padding: 5px;
+	margin: 0;
+	font-weight: 700;
+}
